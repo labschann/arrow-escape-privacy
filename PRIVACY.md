@@ -13,9 +13,11 @@ Arrow Escape no solicita nombre, dirección postal, fecha de nacimiento, ubicaci
 
 ## 2. Progreso y preferencias
 
-La aplicación guarda localmente niveles, estrellas, monedas, pistas, partidas de campaña, Escape Run y desafío diario, logros, apariencias, temas, tutoriales y preferencias de sonido, vibración e idioma. Estos datos permiten continuar jugando y mantener tus ajustes.
+La aplicación guarda localmente el progreso de la campaña y las expediciones, niveles completados, estrellas, monedas, pistas, movimientos de las partidas, errores y pistas utilizadas, logros, apariencias, temas y tutoriales. También conserva preferencias de sonido, vibración, idioma, reducción de animaciones y símbolos de dirección. Estos datos permiten continuar jugando, calcular recompensas y mantener tus ajustes.
 
-La actualización con selección de edad de la versión 2.1.0 permite escoger un rango: menor de 13, de 13 a 17, o 18 años o más. Guarda esta preferencia en el dispositivo para adaptar publicidad y solicitudes de compra, sin pedir la fecha de nacimiento. La elección no desbloquea Premium ni pistas ilimitadas. El tratamiento publicitario derivado de esta elección se comunica a Google como una señal de protección, no como una fecha de nacimiento.
+Los desafíos diarios guardan la fecha del desafío, su objetivo, la medalla conseguida, el tablero del relevo y el tiempo de juego utilizado para evaluar el objetivo. El cronómetro se pausa cuando la aplicación deja de estar en uso. Escape Run conserva la semilla de la partida, la ronda, las vidas, la ruta elegida, la habilidad temporal y las recompensas ya obtenidas para restaurar la sesión y evitar premios duplicados. Las pistas explicadas y la función de deshacer se procesan en el dispositivo. Estas funciones no incorporan un servidor propio, clasificaciones públicas ni un servicio adicional de seguimiento del desarrollador.
+
+La aplicación permite escoger un rango de edad: menor de 13, de 13 a 17, o 18 años o más. Guarda esta preferencia en el dispositivo para adaptar publicidad y solicitudes de compra, sin pedir la fecha de nacimiento. La elección no desbloquea Premium ni pistas ilimitadas. El tratamiento publicitario derivado de esta elección se comunica a Google como una señal de protección, no como una fecha de nacimiento.
 
 El progreso y el idioma pueden incluirse en las copias de seguridad y transferencias de Android según la configuración del dispositivo. Los datos de comercio y activación promocional se excluyen de estas copias. La compra Premium puede restaurarse mediante Google Play.
 
@@ -33,7 +35,7 @@ Al activar Premium mediante compra o código promocional, la aplicación deja de
 
 ## 4. Premium, compras y códigos promocionales
 
-La compra Premium es opcional, de pago único y no constituye una suscripción. Su precio se muestra según Google Play. El producto **remove_ads** elimina anuncios y desbloquea los beneficios Premium indicados en el juego. Las monedas obtenidas jugando son distintas del dinero real utilizado para esta compra.
+La compra Premium es opcional, de pago único y no constituye una suscripción. Su precio se muestra según Google Play. El producto **remove_ads** elimina anuncios y desbloquea los beneficios Premium indicados en el juego, incluidas las colecciones de apariencias y temas Aurora y Prisma. Las monedas obtenidas jugando son distintas del dinero real utilizado para esta compra.
 
 Google Play procesa el pago. Arrow Escape no recibe ni almacena los datos completos de tu tarjeta u otro medio de pago. La aplicación consulta el producto, el estado de compra y su token para confirmar, reconocer y restaurar el derecho adquirido. Una compra pendiente no activa Premium hasta que Google Play confirme su finalización.
 
@@ -65,7 +67,7 @@ Elegir menor de 13 no elimina los anuncios ni las compras y no concede pistas il
 
 Cambiar desde un rango protegido al de adulto solicita una confirmación del adulto responsable. La aplicación no utiliza esta confirmación como prueba de edad o de identidad. Los padres, madres y tutores deben supervisar el uso y pueden configurar autorizaciones de compra en Google Play y Family Link.
 
-Las versiones anteriores tenían distintas opciones de edad y monetización. En esta actualización se pide una nueva elección neutral y se conserva el progreso, las compras confirmadas y las activaciones Premium válidas.
+Las actualizaciones conservan el progreso compatible, las preferencias disponibles, las compras confirmadas y las activaciones Premium válidas. Si no existe un rango de edad válido guardado, se solicita una elección neutral antes de cargar anuncios.
 
 Si consideras que un menor ha enviado información personal a soporte de forma indebida, escribe a [Labschann@gmail.com](mailto:Labschann@gmail.com) para revisar la situación y solicitar su eliminación.
 
